@@ -1,9 +1,10 @@
 Movie Info App
 <div align="center">
-  <img src="" alt="DevOpsShack Banner">
+  <img src="Screenshot_2025-06-14-16-40-47-45_254de13a4bc8758c9908fff1f73e3725.jpg" alt="DevOpsShack Banner">
 </div>
 A simple and interactive web-based application to fetch and display detailed movie information using HTML, CSS, and JavaScript. The app allows users to search for movies by title and view essential details such as release year, cast, plot summary, and more.
-
+<img src="Screenshot_2025-06-14-16-40-47-45_254de13a4bc8758c9908fff1f73e3725.jpg" alt="DevOpsShack Banner">
+</div>
 Features
 Search functionality: Easily search for movies by title.
 Detailed movie info: View movie details including release date, actors, plot summary, ratings, and more.
